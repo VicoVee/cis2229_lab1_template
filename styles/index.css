@@ -1,0 +1,9 @@
+#profileCard {
+    border: black solid 0.2em;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+#profileCard img {
+    width: 100%;
+}
